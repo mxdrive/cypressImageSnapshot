@@ -9,7 +9,7 @@ This is a simple project that demonstrates Cypress Image Snapshot integration to
 
     `npm install`
     
-3. Open `example.js` file
+3. Open `.\cypress\integration\example.js` file
 4. Pay attention to the `.matchImageSnapshot` method
 5. Run `example.js` test:
 
